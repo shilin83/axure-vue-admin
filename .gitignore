@@ -1,0 +1,11 @@
+.DS_Store
+.idea/
+.trae/
+.vscode/
+.agents/
+.claude/
+dist/
+node_modules/
+bun.lock
+auto-imports.d.ts
+components.d.ts

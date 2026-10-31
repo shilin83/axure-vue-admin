@@ -1,0 +1,36 @@
+{
+	"compilerOptions": {
+		"allowSyntheticDefaultImports": true,
+		"allowImportingTsExtensions": true,
+		"allowUnreachableCode": false,
+		"allowUnusedLabels": false,
+		"erasableSyntaxOnly": true,
+		"esModuleInterop": true,
+		"forceConsistentCasingInFileNames": true,
+		"ignoreDeprecations": "6.0",
+		"jsx": "preserve",
+		"jsxImportSource": "vue",
+		"moduleResolution": "bundler",
+		"noEmit": true,
+		"noFallthroughCasesInSwitch": true,
+		"noImplicitAny": true,
+		"noImplicitReturns": true,
+		"noPropertyAccessFromIndexSignature": true,
+		"noUncheckedIndexedAccess": true,
+		"noUnusedLocals": true,
+		"noUnusedParameters": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"strict": true,
+		"strictFunctionTypes": true,
+		"strictNullChecks": true,
+		"useUnknownInCatchVariables": true,
+		"verbatimModuleSyntax": true,
+		"target": "esnext",
+		"types": ["vite/client"],
+		"paths": {
+			"@/*": ["./src/*"]
+		}
+	},
+	"include": ["src"]
+}
