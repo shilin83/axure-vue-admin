@@ -1,0 +1,10 @@
+.DS_Store
+.trae/
+.vscode/
+.agents/
+dist/
+node_modules/
+auto-imports.d.ts
+components.d.ts
+bun.lock
+skills-lock.json
